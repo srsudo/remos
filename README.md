@@ -1,4 +1,4 @@
-# REMOS - Recursive Entropy of Segmentation. 
+# REMOS - Recursive Entropy Method of Segmentation. 
 
 This repository contains the code related to the REMOS algorithm. REMOS is an open-source algorithm for the detection, segmentation, classification, and visualization of continuous volcano-seismic data streams (see Bueno et al. 2019). If would like to contribute, do not hesitate to fork the repository (or contact us).  
 
