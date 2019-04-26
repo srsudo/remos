@@ -2,7 +2,7 @@
 
 This repository contains the code related to the REMOS algorithm. REMOS is an open-source algorithm for the detection, segmentation, classification, and visualization of continuous volcano-seismic data streams (see Bueno et al. 2019). If would like to contribute, do not hesitate to fork the repository (or contact us).  
 
-If using REMOS for academic work, please cite;
+If using REMOS, please cite;
 
 ```sh
 Bueno Rodriguez Angel, Díaz-Moreno Alejandro, De Angelis Silvio, Benítez Carmen and Ibáñez, Jesús. M. 
