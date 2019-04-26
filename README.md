@@ -5,7 +5,7 @@ This repository contains the code related to the REMOS algorithm. REMOS is an op
 If using REMOS for academic work, please cite;
 
 ```sh
-Bueno Rodriguez Angel, Díaz-Moreno Alejandro, De Angelis Silvio, Benítez Carmen and Ibáñez, J.M. 
+Bueno Rodriguez Angel, Díaz-Moreno Alejandro, De Angelis Silvio, Benítez Carmen and Ibáñez, Jesús. M. 
 Recursive Entropy Method of Segmentation. Seismological Research Letters. 91. 2019. 
 ```
 
