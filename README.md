@@ -18,7 +18,7 @@ Recursive Entropy Method of Segmentation. Seismological Research Letters. 91. 20
 ## Contact Information
 Angel Bueno : angelbueno@ugr.es
 
-Distributed under the GNU General Public License v3.0 (gpl- license. See ``LICENSE`` for more information.
+Distributed under the GNU General Public License (GPL) v3.0. See ``LICENSE`` file for more information.
 
 [https://github.com/srsudo/github-link](https://github.com/srsudo/)
 
